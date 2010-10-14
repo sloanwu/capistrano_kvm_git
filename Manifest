@@ -1,0 +1,4 @@
+Manifest
+README
+Rakefile
+lib/capistrano/recipes/deploy/scm/kvm_git.rb
